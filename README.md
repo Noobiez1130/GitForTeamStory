@@ -1,40 +1,44 @@
-# An Incoherence Adventure
+# The Moonstone Adventure
 
-Once upon a time, there was a castle on a hill.
+Once upon a time, a king lived in a castle on a hill.
 
 ![castle](img/castle.png)
 
-A dragon flew down and blocked the gate.
+One day, a dragon landed in front of the gate and blocked the way.
 
 ![dragon](img/dragon.png)
 
-The scientist looked at the map and said, "The treasure is in the forest."
+The knight ran to the king. The scientist opened a map and said, "The treasure is in the forest."
 
 ![scientist](img/scientist.png)
 
 ![map](img/map.png)
 
-A pirate ran in and shouted, "Let’s go to space!"
+Then a pirate burst in and shouted, "I know a faster way. We should go to space!"
 
 ![pirate](img/pirate.png)
 
-The team climbed into a rocket and blasted off.
+So the team climbed into a rocket and flew into the sky.
 
 ![rocket](img/rocket.png)
 
-In the forest, the detective found a ghost and a hidden alien.
-
-![ghost](img/ghost.png)
+When they landed in the forest, the detective saw a ghost by the trees.
 
 ![detective](img/detective.png)
 
+![ghost](img/ghost.png)
+
+Then they found a hidden alien near a broken gate.
+
 ![alien](img/alien.png)
 
-They opened the treasure chest and found the Moonstone.
+The alien said, "Sorry, I took the treasure by mistake. I was trying to power my ship. It's over there."
+
+The group followed the clues to a treasure chest.
 
 ![treasure_open](img/treasure_open.png)
 
-The wizard smiled, the cat sat on the treasure, and the knight cheered.
+Inside was the Moonstone. The wizard smiled. The cat sat on the gold. The knight cheered.
 
 ![wizard](img/wizard.png)
 
@@ -42,6 +46,6 @@ The wizard smiled, the cat sat on the treasure, and the knight cheered.
 
 ![knight](img/knight.png)
 
-The adventure ended with a happy kingdom and a shining treasure.
+The kingdom was safe again, and everyone shared the treasure.
 
 ![treasure_large](img/treasure_large.png)
